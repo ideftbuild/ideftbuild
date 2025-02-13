@@ -36,8 +36,8 @@ Welcome to my GitHub profile! This is where my software engineering journey took
 
 ### NexJot
 📝 A modern-day text editor with an authentication system.
-- **Frontend Repository:** [NexJot Frontend](https://github.com/ideftbuild/nextjot_frontend)
-- **Backend Repository:** [NexJot Backend](https://github.com/ideftbuild/nextjot_backend)
+- **Frontend Repository:** [NexJot Frontend](https://github.com/ideftbuild/nexjot_frontend)
+- **Backend Repository:** [NexJot Backend](https://github.com/ideftbuild/nexjot_backend)
 - **Tech Stack:** React, SpringBoot, PostgreSQL
 - **Role:** Full-stack Developer
 
