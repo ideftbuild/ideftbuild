@@ -62,6 +62,10 @@ Welcome to my GitHub profile! This is where my software engineering journey took
   <img src="https://streak-stats.demolab.com/?user=ideftbuild&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideftbuild&theme=radical" alt="GitHub Streak">
+</p>
+
 ---
 
 ## 💌 Connect With Me
