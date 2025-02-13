@@ -114,11 +114,25 @@ Hey there! 👋 I'm a passionate Software Engineer with a knack for building sca
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ideftbuild&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ideftbuild&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" height="200"/>
-  
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ideftbuild&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=My%20GitHub%20Stats" alt="GitHub Stats"/>
+    </td>
+    <td width="50%">
+     <img src="https://nirzak-streak-stats.vercel.app/?user=ideftbuild&theme=tokyonight&hide_border=true&background=0D1117custom_title=%F0%9F%93%86%20Daily%20Grind%20Mode" alt="Github Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideftbuild&layout=compact&theme=tokyonight&custom_title=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20Breakdown" alt="Most Used Languages"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideftbuild&theme=tokyonight&custom_title=%E2%9A%A1%20Code%20Contribution%20Heatmap" alt="Contribution Graph"/>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
 
@@ -128,7 +142,7 @@ Hey there! 👋 I'm a passionate Software Engineer with a knack for building sca
 <a href="mailto:a.akanSWE@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/ideftbuild/ideftbuild"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Let%27s%20get%20our%20hands%20in%20action!&fontSize=30&fontAlignY=50&desc=Innovation%20isn%27t%20just%20about%20answers%3B%20it%27s%20about%20asking%20the%20boldest%20questions.&descAlignY=75&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Let%27s%20get%20our%20hands%20in%20action!&fontSize=30&fontAlignY=50&desc=Innovation%20isn%27t%20just%20about%20answers%3B%20it%27s%20about%20asking%20the%20boldest%20questions.&descAlignY=75&animation=fadeIn" width="300"/>
 
 </div>
 
