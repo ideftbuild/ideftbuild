@@ -58,7 +58,7 @@ Welcome to my GitHub profile! This is where my software engineering journey took
   <img src="https://github-readme-stats.vercel.app/api?username=ideftbuild&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ideftbuild&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ideftbuild&theme=radical)
 
 ---
 
