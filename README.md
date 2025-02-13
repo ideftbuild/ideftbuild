@@ -27,19 +27,33 @@ Welcome to my GitHub profile! This is where my software engineering journey took
 
 ## 🔥 Some of My Most Impactful Projects
 
-### Nametrek
-🎮 A real-time multiplayer game designed for an immersive experience.
-- **Frontend Repository:** [Nametrek Frontend](https://github.com/ideftbuild/nametrek_frontend)
-- **Backend Repository:** [Nametrek Backend](https://github.com/ideftbuild/nametrek_backend)
-- **Tech Stack:** Next.js, SpringBoot, Redis, PostgreSQL
-- **Role:** Full-stack Developer
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Nametrek</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=D9j5qPIRCHo" target="_blank"><img src="https://img.shields.io/badge/▶️_Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"/></a>
+<a href="https://github.com/ideftbuild/nametrek_frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-black?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/></a>
+<a href="https://github.com/ideftbuild/nametrek_backend" target="_blank"><img src="https://img.shields.io/badge/Backend-black?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>
+</div>
+<p><strong>Next.js • Spring Boot • Redis • PostgreSQL</strong> 
 
-### NexJot
-📝 A modern-day text editor with an authentication system.
-- **Frontend Repository:** [NexJot Frontend](https://github.com/ideftbuild/nexjot_frontend)
-- **Backend Repository:** [NexJot Backend](https://github.com/ideftbuild/nexjot_backend)
-- **Tech Stack:** React, SpringBoot, PostgreSQL
-- **Role:** Full-stack Developer
+- An immersive real-time multiplayer game featuring dynamic gameplay and seamless user experience.</p>
+</td>
+<td width="50%">
+<h3 align="center">NexJot</h3>
+<div align="center">
+<a href="https://github.com/ideftbuild/nexjot_frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-black?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/></a>
+<a href="https://github.com/ideftbuild/nexjot_backend" target="_blank"><img src="https://img.shields.io/badge/Backend-black?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>
+</div>
+<p><strong>React • Spring Boot • PostgreSQL</strong> 
+  
+- A modern text editor with robust authentication and real-time collaboration features.</p>
+</td>
+</tr>
+</table>
+</div>
 
 ### [Sunema](https://github.com/josfam/sunema)
 🎬 Recommends movies based on weather conditions.
@@ -55,15 +69,18 @@ Welcome to my GitHub profile! This is where my software engineering journey took
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ideftbuild&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideftbuild&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ideftbuild&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideftbuild&theme=radical" alt="GitHub Streak" width="500" />
 </div>
+
 
 ---
 
 ## 💌 Connect With Me
+<a href="https://www.linkedin.com/in/akan-swe/"><img src="https://img.shields.io/badge/let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:a.akanSWE@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ideftbuild/ideftbuild"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/akan-swe/)  |  📧 [Email](mailto:a.akanSWE@gmail.com)  |  🗃️ [Portfolio](https://yourportfolio.com)
 
 ---
 
