@@ -54,17 +54,10 @@ Welcome to my GitHub profile! This is where my software engineering journey took
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ideftbuild&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ideftbuild&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideftbuild&theme=radical" alt="GitHub Streak">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ideftbuild&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideftbuild&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
