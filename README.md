@@ -25,24 +25,28 @@ Welcome to my GitHub profile! This is where my software engineering journey took
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Some of My Most Impactful Projects
 
-### [Nametrek](https://github.com/ideftbuild/Nametrek)
-🕹️ A real-time multiplayer game designed for an immersive experience.
-- **Tech Stack:** C, JavaScript, WebSockets
+### Nametrek
+🎮 A real-time multiplayer game designed for an immersive experience.
+- **Frontend Repository:** [Nametrek Frontend](https://github.com/ideftbuild/nametrek_frontend)
+- **Backend Repository:** [Nametrek Backend](https://github.com/ideftbuild/nametrek_backend)
+- **Tech Stack:** Next.js, SpringBoot, Redis, PostgreSQL
 - **Role:** Full-stack Developer
 
-### [NexJot](https://github.com/ideftbuild/NexJot)
+### NexJot
 📝 A modern-day text editor with an authentication system.
-- **Tech Stack:** Next.js, Express.js, MongoDB
+- **Frontend Repository:** [NexJot Frontend](https://github.com/ideftbuild/nextjot_frontend)
+- **Backend Repository:** [NexJot Backend](https://github.com/ideftbuild/nextjot_backend)
+- **Tech Stack:** React, SpringBoot, PostgreSQL
 - **Role:** Full-stack Developer
 
-### [Sunema](https://github.com/ideftbuild/Sunema)
+### [Sunema](https://github.com/josfam/sunema)
 🎬 Recommends movies based on weather conditions.
-- **Tech Stack:** Flask, OpenWeather API, React
+- **Tech Stack:** React, Flask, OpenWeather API, TMDB API
 - **Role:** Full-stack Developer
 
-### [Monty](https://github.com/ideftbuild/Monty)
+### [Monty](https://github.com/ideftbuild/monty)
 🖥️ An interpreter written in C.
 - **Tech Stack:** C, Data Structures & Algorithms
 - **Role:** Systems Developer
@@ -60,14 +64,13 @@ Welcome to my GitHub profile! This is where my software engineering journey took
 
 ---
 
-## 📫 Connect With Me
+## 💌 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/akan-swe/)  |  📧 [Email](a.akanSWE@gmail.com)  |  📝 [Portfolio](https://yourportfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/akan-swe/)  |  📧 [Email](mailto:a.akanSWE@gmail.com)  |  🗃️ [Portfolio](https://yourportfolio.com)
 
 ---
 
 💡 **"Technology isn't just about solving problems; it's about shaping the future."**
-
 <!--
 **ideftbuild/ideftbuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
