@@ -198,10 +198,9 @@ A modern text editor with robust authentication system.</p>
 
 ---
 
+## 🤝 Let's Connect!
+
 <div align="center">
-
-## 🤝 Let's Connect
-
 
 <a href="https://www.linkedin.com/in/akan-swe/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
