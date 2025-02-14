@@ -7,9 +7,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF4&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner;System+Architect)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/akan-swe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:a.akanSWE@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ideftbuild/ideftbuild"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akan-swe/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:a.akanSWE@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ideftbuild/ideftbuild">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="https://x.com/heis_akan">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=ideftbuild&color=blue&style=flat-square)](https://github.com/ideftbuild)
 
 </div>
@@ -187,16 +200,33 @@ A modern text editor with robust authentication system.</p>
 
 <div align="center">
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/akan-swe/"><img src="https://img.shields.io/badge/let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:a.akanSWE@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ideftbuild/ideftbuild"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Let%27s%20get%20our%20hands%20in%20action!&fontSize=30&fontAlignY=50&desc=Innovation%20isn%27t%20just%20about%20answers%3B%20it%27s%20about%20asking%20the%20boldest%20questions.&descAlignY=75&animation=fadeIn" width="300"/>
+<a href="https://www.linkedin.com/in/akan-swe/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:a.akanSWE@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ideftbuild/ideftbuild">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="https://x.com/heis_akan">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
 
 </div>
 
+<div align="center">
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Keep%20Building,%20Keep%20Exploring!&fontSize=30&fontAlignY=50&desc=The%20future%20belongs%20to%20those%20who%20create%20it.%20Let's%20build%20something%20amazing!&descAlignY=75&animation=fadeIn" width="300"/>
+  
+</div>
 <!--
 **ideftbuild/ideftbuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
