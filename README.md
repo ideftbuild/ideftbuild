@@ -88,6 +88,8 @@ Hey there! 👋 I'm a passionate Software Engineer with a knack for building sca
 </div>
 </details>
 
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -127,6 +129,8 @@ A modern text editor with robust authentication system.</p>
 - 🖥️ **[Monty](https://github.com/ideftbuild/monty)** - A sophisticated interpreter written in C
   - *Tech: C, Data Structures & Algorithms*
 
+---
+
 ## 📈 GitHub Analytics
 
 <table width="100%">
@@ -148,6 +152,38 @@ A modern text editor with robust authentication system.</p>
   </tr>
 </table>
 
+---
+
+## 🏆 Certifications 
+
+<details align="center">
+  <summary>
+    <img src="https://img.shields.io/badge/ALX-Software_Engineering-00A98F?style=for-the-badge" />
+    <div><strong>Full Stack Software Engineering Program</strong></div>
+    <div><em>Completed intensive 12-month software engineering program</em></div>
+  </summary>
+
+  ![ALX SE Certificate](https://github.com/user-attachments/assets/65587e97-9b8a-4128-8f2f-a94ea23d64e9)
+  
+  <br>
+  
+  [View Certificate](https://github.com/user-attachments/assets/65587e97-9b8a-4128-8f2f-a94ea23d64e9)
+</details>
+
+<details align="center">
+  <summary>
+    <img src="https://img.shields.io/badge/SE_Face_of_Challenge-Participant-00A98F?style=for-the-badge" />
+    <div><strong>SE Face of Challenge</strong></div>
+    <div><em>A fast-paced challenge where my team and I built impressive programs and competed in technical quizzes.</em></div>
+  </summary>
+
+  ![Akaniyene Effiong SE Face Off Certificate of Appreciation](https://github.com/user-attachments/assets/02a802de-e6dd-4b32-ad47-469fd4a5e58c)
+  
+  [View Certificate](https://github.com/user-attachments/assets/02a802de-e6dd-4b32-ad47-469fd4a5e58c)
+
+</details>
+
+---
 
 <div align="center">
 
