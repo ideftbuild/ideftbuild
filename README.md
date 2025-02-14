@@ -64,6 +64,14 @@ Hey there! 👋 I'm a passionate Software Engineer with a knack for building sca
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white)  
+
+### 🎥 Creative & Editing Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=white)
+![Kdenlive](https://img.shields.io/badge/Kdenlive-5277C3?style=for-the-badge&logo=kdenlive&logoColor=white)
 
 ### 🧠 Core Competencies
 ![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logoColor=white)
