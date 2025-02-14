@@ -90,7 +90,9 @@ Hey there! 👋 I'm a passionate Software Engineer with a knack for building sca
 <a href="https://github.com/ideftbuild/nametrek_frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-black?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/></a>
 <a href="https://github.com/ideftbuild/nametrek_backend" target="_blank"><img src="https://img.shields.io/badge/Backend-black?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>
 </div>
-<p><strong>Next.js • Spring Boot • Redis • PostgreSQL</strong> - An immersive real-time multiplayer game featuring dynamic gameplay and seamless user experience.</p>
+<p><strong>Next.js • Spring Boot • Redis • PostgreSQL</strong>
+
+An immersive real-time multiplayer game featuring dynamic gameplay and seamless user experience.</p>
 </td>
 <td width="50%">
 <h3 align="center">NexJot</h3>
@@ -98,7 +100,9 @@ Hey there! 👋 I'm a passionate Software Engineer with a knack for building sca
 <a href="https://github.com/ideftbuild/nexjot_frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-black?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/></a>
 <a href="https://github.com/ideftbuild/nexjot_backend" target="_blank"><img src="https://img.shields.io/badge/Backend-black?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/></a>
 </div>
-<p><strong>React • Spring Boot • PostgreSQL</strong> - A modern text editor with robust authentication and real-time collaboration features.</p>
+<p><strong>React • Spring Boot • PostgreSQL</strong> 
+
+A modern text editor with robust authentication system.</p>
 </td>
 </tr>
 </table>
